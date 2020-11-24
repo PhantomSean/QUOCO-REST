@@ -48,6 +48,6 @@ Have docker installed in your local environment
     docker-compose up
     ```
 *   ```sh
-    cd ./clients/
+    cd ./client/
 *   ```sh
     mvn spring-boot:run
